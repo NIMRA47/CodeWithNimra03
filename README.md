@@ -15,3 +15,20 @@ npm install react-icons
 
 # 6. Start the development server
 npm run dev
+/                        →  Login Page
+/dashboard               →  Home (Overview)
+/dashboard/products      →  All Products
+/dashboard/addproduct    →  Add New Product
+/dashboard/editproduct/:id  →  Edit Product
+/dashboard/orders        →  Orders Page                                                                                       Key Highlights
+
+No backend required — everything runs in the browser via localStorage
+Nested routing — Dashboard has its own sub-routes using React Router v6
+Live search — filters products instantly from the header search bar
+Auto stock status — product status updates automatically based on quantity
+Responsive dark UI — consistent dark theme across all pages
+Animated Vanta background — immersive 3D animated background on every screen
+
+
+👩‍💻 Developer
+Nimra — @NIMRA47
